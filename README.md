@@ -101,18 +101,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari0701&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari0701&hide_border=true&layout=compact&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="left" style="width: 100%" />
 
 </td></tr></table>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-## Github Stats 
-  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hari0701&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari0701&hide_border=true&layout=compact&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="center" /></div>
-<br />
 
