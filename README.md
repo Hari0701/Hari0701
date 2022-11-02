@@ -38,13 +38,19 @@
 - 🔭 I’m currently working at Conketto Inc.    
   
 
-- 🌱 I’m in love with improving my DSA Skills.  
+- 🌱 I’m improving my problem-solving skills.  
   
 
-- ❓ Ask me related to MERN stack and related technologies.    
+- ❓ Ask me related to MERN stack and related technologies.
+  
+  
+- 😜 Others I do: I love to read books, Exercise, Binge watch movies and animes.  
+
+
+- ⚡ Fun fact: It's hard for me to work without an external mouse.  
+ 
   
 
-- ⚡ Fun fact: It's hard for me to work without an external mouse.   
 
 
 </td><td valign="top" width="50%">
