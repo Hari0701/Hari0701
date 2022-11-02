@@ -1,4 +1,3 @@
-## Hey 👋, I'm Hariharan!  
   
 ![download](https://user-images.githubusercontent.com/68813522/199554203-9b1f35fd-d0a1-426a-8451-c83c6e28292c.png)
 
