@@ -1,9 +1,7 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="![download](https://user-images.githubusercontent.com/68813522/199548478-61ca67c1-2e61-4c3d-b301-78cbf3c50e3a.png)
+" align="center" style="width: 100%" />
 </div>  
-  
-
-### <div align="center">I'm Hariharan, a Software Developer 👨‍💻 working remotely 🚀</div>  
   
 
 - 🔭 I’m currently working at Conketto Inc.  
