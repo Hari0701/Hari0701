@@ -102,10 +102,8 @@
 
 
 ## Github Stats 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hari0701&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hari0701&show_icons=true&include_all_commits=true&count_private=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari0701&hide_border=true&layout=compact" align="center" /></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
