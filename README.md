@@ -1,5 +1,5 @@
-  
-![download](https://user-images.githubusercontent.com/68813522/199554203-9b1f35fd-d0a1-426a-8451-c83c6e28292c.png)
+
+![github-header-image](https://user-images.githubusercontent.com/68813522/199672942-5b5fe8a2-8ab3-437b-a36e-22420f68178d.png)
 
 <a href="https://twitter.com/hari07_at" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
