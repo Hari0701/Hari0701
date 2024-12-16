@@ -4,12 +4,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hari0701" alt="hari0701" /></a> </p>
 
-<h3 align="center">A Passionate Software Engineer</h3>
+<h3 align="center">🚀 A Passionate Software Engineer | Open-Source Projects Explorer</h3>
 
 
 - 🔭 I’m currently working at **Conektto Inc.**
 
-- 🌱 I’m currently learning **AI**
+- 🔧 Building scalable web applications & solving real-world problems
+
+- 🌍 Passionate about clean code, AI, and tech that makes an impact
+
+- 💬 Always open to collaboration & learning new things
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hari0701?tab=repositories](https://github.com/Hari0701?tab=repositories)
 
