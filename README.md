@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hari0701" alt="hari0701" /></a> </p>
 
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 
 - 🔭 I’m currently working at **Conektto Inc.**
