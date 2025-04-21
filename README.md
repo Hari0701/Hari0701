@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working at **Conektto Inc.**
+- 🔭 I’m currently working at **Infiligence**
 
 - 🔧 Building scalable web applications & solving real-world problems
 
