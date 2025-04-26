@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hari0701?tab=repositories](https://github.com/Hari0701?tab=repositories)
 
-- 💬 Ask me about **modern frontend technologies** 
+- 💬 Ask me about **Design, Modern web and mobile technologies** 
 
 - 📫 How to reach me **hari07.at@gmail.com**
 
