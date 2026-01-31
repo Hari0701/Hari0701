@@ -1,53 +1,62 @@
-![Header Image](https://user-images.githubusercontent.com/68813522/199673160-50a160ef-2154-48a8-8a13-6e247c52f39d.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/68813522/199673160-50a160ef-2154-48a8-8a13-6e247c52f39d.png" alt="Header" width="100%"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Hariharan</h1>
-<h3 align="center">🚀 Full-Stack Platform Engineer | Mobile & Web Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hariharan;Full-Stack+Platform+Engineer;Mobile+%26+Web+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hari0701&label=Profile%20views&color=0e75b6&style=flat" alt="hari0701" />
+  <img src="https://komarev.com/ghpvc/?username=hari0701&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/hari0701?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/hari0701?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hari0701&theme=nord&column=7" alt="hari0701" />
-  </a>
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=3%2B+Years+of+Development+Experience;React+%7C+Next.js+%7C+NestJS+Expert;Mobile+%26+Web+Specialist;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently working as **Platform Engineer at Infiligence Technologies**
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 💼 3+ years of experience building **scalable web and mobile applications**
+- 🔭 **Currently:** Platform Engineer at **Infiligence Technologies**
 
-- 🏗️ Specialized in **full-stack development** with React, Next.js, NestJS, and React Native
+- 💼 **Experience:** 3+ years building **scalable applications**
 
-- 🏥 Recently built a **healthcare auditing platform** with QMS, LMS, and vendor management systems
+- 🏗️ **Expertise:** Full-stack (React, Next.js, NestJS, React Native)
 
-- 📱 Developed **mobile applications** for fintech and auction platforms
+- 🏥 **Recent Work:** Healthcare auditing platform (QMS/LMS/Vendor Mgmt)
 
-- 🔐 Experience with **blockchain technology** and document management systems
+- 📱 **Mobile Apps:** Fintech & auction platforms
 
-- 🎨 Strong in **UI/UX design** with Figma
+- 🔐 **Blockchain:** Document management systems
 
-- 🚀 Passionate about **real-time applications**, **API architecture**, and **clean code**
+- 🎨 **Design:** UI/UX with Figma
 
-- 🌱 Always learning and exploring new technologies
+- 🚀 **Passionate About:** Real-time apps, API architecture, clean code
 
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/Hari0701?tab=repositories)
+- 🌱 **Learning:** Always exploring new technologies
 
-- 💬 Ask me about **React, Next.js, NestJS, React Native, Flutter, TypeScript, API Development**
+- 💬 **Ask Me About:** React, Next.js, NestJS, React Native, Flutter, TypeScript
 
-- 📫 Reach me at **hari07.at@gmail.com**
+- 📫 **Reach Me:** [hari07.at@gmail.com](mailto:hari07.at@gmail.com)
 
-- ⚡ Fun fact: **I love sketching UI ideas and exploring new frameworks!**
+- ⚡ **Fun Fact:** I love sketching UI ideas and exploring frameworks!
+
+<br clear="both">
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### Frontend
+<div align="center">
+
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -57,60 +66,100 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-#### Mobile
+### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-#### Database
+### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### Tools & Technologies
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=hari0701&theme=dark" alt="hari0701 streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari0701&show_icons=true&theme=dark&locale=en" alt="hari0701 stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hari0701&show_icons=true&theme=dark&locale=en&layout=compact" alt="hari0701 languages" />
-</p>
+</div>
 
 ---
 
-### 🤝 Connect with Me
+## 📊 GitHub Stats
 
-<p align="left">
-<a href="https://twitter.com/_harix__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hari0701" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/_.hari07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://medium.com/@hari07.at" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/poducodu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hari0701&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari0701&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari0701&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hari0701&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" width="800"/>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hari0701&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
-</p>
+## 📈 Contribution Graph
 
-<p align="center">⭐️ From <a href="https://github.com/Hari0701">Hari0701</a></p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hari0701&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Healthcare Platform](https://github-readme-stats.vercel.app/api/pin/?username=hari0701&repo=healthcare-platform&theme=tokyonight&hide_border=true)](https://github.com/hari0701)
+[![Wavelength](https://github-readme-stats.vercel.app/api/pin/?username=hari0701&repo=wavelength&theme=tokyonight&hide_border=true)](https://github.com/hari0701/wavelength)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_harix__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hari0701)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.hari07)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hari07.at)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/poducodu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hari07.at@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/hari0701/hari0701/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+  
+**⭐️ From [Hari0701](https://github.com/Hari0701) with 💙**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
