@@ -30,12 +30,6 @@
 
 - 🏗️ **Expertise:** Full-stack (React, Next.js, NestJS, React Native)
 
-- 🏥 **Recent Work:** Healthcare auditing platform (QMS/LMS/Vendor Mgmt)
-
-- 📱 **Mobile Apps:** Fintech & auction platforms
-
-- 🔐 **Blockchain:** Document management systems
-
 - 🎨 **Design:** UI/UX with Figma
 
 - 🚀 **Passionate About:** Real-time apps, API architecture, clean code
@@ -89,23 +83,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari0701&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari0701&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari0701&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=hari0701&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" width="800"/>
 </div>
 
 ---
@@ -114,17 +93,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hari0701&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Healthcare Platform](https://github-readme-stats.vercel.app/api/pin/?username=hari0701&repo=healthcare-platform&theme=tokyonight&hide_border=true)](https://github.com/hari0701)
-[![Wavelength](https://github-readme-stats.vercel.app/api/pin/?username=hari0701&repo=wavelength&theme=tokyonight&hide_border=true)](https://github.com/hari0701/wavelength)
-
 </div>
 
 ---
@@ -148,9 +116,6 @@
 
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/hari0701/hari0701/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
