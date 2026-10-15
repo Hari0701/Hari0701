@@ -41,8 +41,6 @@
 - 🛠️ **I own delivery:** requirements → architecture → CI/CD → monitoring →
   production support. Primary engineer on multiple client deliveries.
 
-- 🌍 **Fully remote** throughout my career, across time zones
-
 - 💬 **Ask me about:** RAG that doesn't hallucinate, extracting fields from
   documents that were never designed to be parsed, keeping AI jobs idempotent
 
